@@ -15,9 +15,3 @@
 ::   Autômato Finito Determinístico    ::  C++  ::<br>
 ==================================================<br>
  </p>
- 
- ```html
-<div class="text_center">
-	SAMUEL
-</div>
- ```
